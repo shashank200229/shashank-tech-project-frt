@@ -10,4 +10,4 @@ The website is desgined and with simle HTML,CSS .It contains link of blog and do
 
 # screenshots
 
-![blog](https://github.com/shashank200229/shashank-tech-project-frt/assets/141292658/26070ce5-c2ec-4de1-a3a4-4ec6aa96441f)
+![blog](https://github.com/shashank200229/shashank-tech-project-frt/assets/141292658/702062a5-40cd-4b3c-8021-a12a475c7e6c)
