@@ -11,3 +11,26 @@ The website is desgined and with simle HTML,CSS .It contains link of blog and do
 # screenshots
 
 ![blog](https://github.com/shashank200229/shashank-tech-project-frt/assets/141292658/702062a5-40cd-4b3c-8021-a12a475c7e6c)
+
+# features
+
+- Variety of content
+- Best Blog and docs
+- Fully Responsive
+- Cross platform
+
+# Tech Stack
+**Client**: HTML, CSS, Dotnet
+
+**Server**: Azure Services like Webapp,Cloud Shell
+
+# setup and run Dotnet app
+To create dotnet webapp
+```
+dotnet new webapp -o MyWebApp --no-https -f net6.0
+```
+To run and test webapp
+```
+cd webapp
+dotnet watch
+```
