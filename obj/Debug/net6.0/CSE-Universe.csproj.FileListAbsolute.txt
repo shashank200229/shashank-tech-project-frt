@@ -1,0 +1,115 @@
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\bin\Debug\net6.0\appsettings.Development.json
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\bin\Debug\net6.0\appsettings.json
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\bin\Debug\net6.0\CSE-Universe.staticwebassets.runtime.json
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\bin\Debug\net6.0\CSE-Universe.exe
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\bin\Debug\net6.0\CSE-Universe.deps.json
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\bin\Debug\net6.0\CSE-Universe.runtimeconfig.json
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\bin\Debug\net6.0\CSE-Universe.dll
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\bin\Debug\net6.0\CSE-Universe.pdb
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\obj\Debug\net6.0\CSE-Universe.csproj.AssemblyReference.cache
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\obj\Debug\net6.0\CSE-Universe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\obj\Debug\net6.0\CSE-Universe.AssemblyInfoInputs.cache
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\obj\Debug\net6.0\CSE-Universe.AssemblyInfo.cs
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\obj\Debug\net6.0\CSE-Universe.csproj.CoreCompileInputs.cache
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\obj\Debug\net6.0\CSE-Universe.MvcApplicationPartsAssemblyInfo.cache
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\obj\Debug\net6.0\CSE-Universe.RazorAssemblyInfo.cache
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\obj\Debug\net6.0\CSE-Universe.RazorAssemblyInfo.cs
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\obj\Debug\net6.0\staticwebassets.build.json
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\obj\Debug\net6.0\staticwebassets.development.json
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\obj\Debug\net6.0\scopedcss\bundle\CSE-Universe.styles.css
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\obj\Debug\net6.0\scopedcss\projectbundle\CSE-Universe.bundle.scp.css
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\obj\Debug\net6.0\CSE-Universe.dll
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\obj\Debug\net6.0\refint\CSE-Universe.dll
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\obj\Debug\net6.0\CSE-Universe.pdb
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\obj\Debug\net6.0\CSE-Universe.genruntimeconfig.cache
+D:\Coding\VsCode\CSE-Universe\CSE-Universe\obj\Debug\net6.0\ref\CSE-Universe.dll
+D:\Coding\VsCode\CSE-Universe\bin\Debug\net6.0\appsettings.Development.json
+D:\Coding\VsCode\CSE-Universe\bin\Debug\net6.0\appsettings.json
+D:\Coding\VsCode\CSE-Universe\bin\Debug\net6.0\CSE-Universe.staticwebassets.runtime.json
+D:\Coding\VsCode\CSE-Universe\bin\Debug\net6.0\CSE-Universe.exe
+D:\Coding\VsCode\CSE-Universe\bin\Debug\net6.0\CSE-Universe.deps.json
+D:\Coding\VsCode\CSE-Universe\bin\Debug\net6.0\CSE-Universe.runtimeconfig.json
+D:\Coding\VsCode\CSE-Universe\bin\Debug\net6.0\CSE-Universe.dll
+D:\Coding\VsCode\CSE-Universe\bin\Debug\net6.0\CSE-Universe.pdb
+D:\Coding\VsCode\CSE-Universe\obj\Debug\net6.0\CSE-Universe.csproj.AssemblyReference.cache
+D:\Coding\VsCode\CSE-Universe\obj\Debug\net6.0\CSE-Universe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\VsCode\CSE-Universe\obj\Debug\net6.0\CSE-Universe.AssemblyInfoInputs.cache
+D:\Coding\VsCode\CSE-Universe\obj\Debug\net6.0\CSE-Universe.AssemblyInfo.cs
+D:\Coding\VsCode\CSE-Universe\obj\Debug\net6.0\CSE-Universe.csproj.CoreCompileInputs.cache
+D:\Coding\VsCode\CSE-Universe\obj\Debug\net6.0\CSE-Universe.MvcApplicationPartsAssemblyInfo.cache
+D:\Coding\VsCode\CSE-Universe\obj\Debug\net6.0\CSE-Universe.RazorAssemblyInfo.cache
+D:\Coding\VsCode\CSE-Universe\obj\Debug\net6.0\CSE-Universe.RazorAssemblyInfo.cs
+D:\Coding\VsCode\CSE-Universe\obj\Debug\net6.0\staticwebassets.build.json
+D:\Coding\VsCode\CSE-Universe\obj\Debug\net6.0\staticwebassets.development.json
+D:\Coding\VsCode\CSE-Universe\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Coding\VsCode\CSE-Universe\obj\Debug\net6.0\scopedcss\bundle\CSE-Universe.styles.css
+D:\Coding\VsCode\CSE-Universe\obj\Debug\net6.0\scopedcss\projectbundle\CSE-Universe.bundle.scp.css
+D:\Coding\VsCode\CSE-Universe\obj\Debug\net6.0\CSE-Universe.dll
+D:\Coding\VsCode\CSE-Universe\obj\Debug\net6.0\refint\CSE-Universe.dll
+D:\Coding\VsCode\CSE-Universe\obj\Debug\net6.0\CSE-Universe.pdb
+D:\Coding\VsCode\CSE-Universe\obj\Debug\net6.0\CSE-Universe.genruntimeconfig.cache
+D:\Coding\VsCode\CSE-Universe\obj\Debug\net6.0\ref\CSE-Universe.dll
+C:\Users\a2415\Downloads\CSE-Universe-master\CSE-Universe-master\obj\Debug\net6.0\CSE-Universe.csproj.AssemblyReference.cache
+C:\Users\a2415\Downloads\CSE-Universe-master\CSE-Universe-master\obj\Debug\net6.0\CSE-Universe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2415\Downloads\CSE-Universe-master\CSE-Universe-master\obj\Debug\net6.0\CSE-Universe.AssemblyInfoInputs.cache
+C:\Users\a2415\Downloads\CSE-Universe-master\CSE-Universe-master\obj\Debug\net6.0\CSE-Universe.AssemblyInfo.cs
+C:\Users\a2415\Downloads\CSE-Universe-master\CSE-Universe-master\obj\Debug\net6.0\CSE-Universe.csproj.CoreCompileInputs.cache
+C:\Users\a2415\Downloads\CSE-Universe-master\CSE-Universe-master\obj\Debug\net6.0\CSE-Universe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\a2415\Downloads\CSE-Universe-master\CSE-Universe-master\obj\Debug\net6.0\CSE-Universe.RazorAssemblyInfo.cache
+C:\Users\a2415\Downloads\CSE-Universe-master\CSE-Universe-master\obj\Debug\net6.0\CSE-Universe.RazorAssemblyInfo.cs
+C:\Users\a2415\Downloads\CSE-Universe-master\CSE-Universe-master\obj\Debug\net6.0\CSE-Universe.dll
+C:\Users\a2415\Downloads\CSE-Universe-master\CSE-Universe-master\obj\Debug\net6.0\refint\CSE-Universe.dll
+C:\Users\a2415\Downloads\CSE-Universe-master\CSE-Universe-master\obj\Debug\net6.0\CSE-Universe.pdb
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\bin\Debug\net6.0\appsettings.json
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\bin\Debug\net6.0\CSE-Universe.staticwebassets.runtime.json
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\bin\Debug\net6.0\CSE-Universe.exe
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\bin\Debug\net6.0\CSE-Universe.deps.json
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\bin\Debug\net6.0\CSE-Universe.runtimeconfig.json
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\bin\Debug\net6.0\CSE-Universe.dll
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\bin\Debug\net6.0\CSE-Universe.pdb
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\obj\Debug\net6.0\CSE-Universe.csproj.AssemblyReference.cache
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\obj\Debug\net6.0\CSE-Universe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\obj\Debug\net6.0\CSE-Universe.AssemblyInfoInputs.cache
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\obj\Debug\net6.0\CSE-Universe.AssemblyInfo.cs
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\obj\Debug\net6.0\CSE-Universe.csproj.CoreCompileInputs.cache
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\obj\Debug\net6.0\CSE-Universe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\obj\Debug\net6.0\CSE-Universe.RazorAssemblyInfo.cache
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\obj\Debug\net6.0\CSE-Universe.RazorAssemblyInfo.cs
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\obj\Debug\net6.0\scopedcss\bundle\CSE-Universe.styles.css
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\obj\Debug\net6.0\scopedcss\projectbundle\CSE-Universe.bundle.scp.css
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\obj\Debug\net6.0\CSE-Universe.dll
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\obj\Debug\net6.0\refint\CSE-Universe.dll
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\obj\Debug\net6.0\CSE-Universe.pdb
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\obj\Debug\net6.0\CSE-Universe.genruntimeconfig.cache
+C:\Users\a2415\Downloads\CSE-Universe-master\FRTpro\obj\Debug\net6.0\ref\CSE-Universe.dll
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\bin\Debug\net6.0\appsettings.json
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\bin\Debug\net6.0\CSE-Universe.staticwebassets.runtime.json
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\bin\Debug\net6.0\CSE-Universe.exe
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\bin\Debug\net6.0\CSE-Universe.deps.json
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\bin\Debug\net6.0\CSE-Universe.runtimeconfig.json
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\bin\Debug\net6.0\CSE-Universe.dll
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\bin\Debug\net6.0\CSE-Universe.pdb
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\obj\Debug\net6.0\CSE-Universe.csproj.AssemblyReference.cache
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\obj\Debug\net6.0\CSE-Universe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\obj\Debug\net6.0\CSE-Universe.AssemblyInfoInputs.cache
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\obj\Debug\net6.0\CSE-Universe.AssemblyInfo.cs
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\obj\Debug\net6.0\CSE-Universe.csproj.CoreCompileInputs.cache
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\obj\Debug\net6.0\CSE-Universe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\obj\Debug\net6.0\CSE-Universe.RazorAssemblyInfo.cache
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\obj\Debug\net6.0\CSE-Universe.RazorAssemblyInfo.cs
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\obj\Debug\net6.0\scopedcss\bundle\CSE-Universe.styles.css
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\obj\Debug\net6.0\scopedcss\projectbundle\CSE-Universe.bundle.scp.css
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\obj\Debug\net6.0\CSE-Universe.dll
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\obj\Debug\net6.0\refint\CSE-Universe.dll
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\obj\Debug\net6.0\CSE-Universe.pdb
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\obj\Debug\net6.0\CSE-Universe.genruntimeconfig.cache
+C:\Users\sanjan m\Downloads\SOFT-TECH_project-master\SOFT-TECH_project-master\obj\Debug\net6.0\ref\CSE-Universe.dll
